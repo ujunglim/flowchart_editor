@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/flowchart_editor/static/js/main.cd6fd3a2.chunk.js",
-    "main.js.map": "/flowchart_editor/static/js/main.cd6fd3a2.chunk.js.map",
+    "main.js": "/flowchart_editor/static/js/main.ea4be7b9.chunk.js",
+    "main.js.map": "/flowchart_editor/static/js/main.ea4be7b9.chunk.js.map",
     "runtime-main.js": "/flowchart_editor/static/js/runtime-main.c3986a88.js",
     "runtime-main.js.map": "/flowchart_editor/static/js/runtime-main.c3986a88.js.map",
     "static/js/2.4a416294.chunk.js": "/flowchart_editor/static/js/2.4a416294.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.c3986a88.js",
     "static/js/2.4a416294.chunk.js",
-    "static/js/main.cd6fd3a2.chunk.js"
+    "static/js/main.ea4be7b9.chunk.js"
   ]
 }
