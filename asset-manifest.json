@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/flowchart_editor/static/js/main.dd682431.chunk.js",
-    "main.js.map": "/flowchart_editor/static/js/main.dd682431.chunk.js.map",
+    "main.js": "/flowchart_editor/static/js/main.7983b33d.chunk.js",
+    "main.js.map": "/flowchart_editor/static/js/main.7983b33d.chunk.js.map",
     "runtime-main.js": "/flowchart_editor/static/js/runtime-main.c3986a88.js",
     "runtime-main.js.map": "/flowchart_editor/static/js/runtime-main.c3986a88.js.map",
     "static/css/2.7572b43f.chunk.css": "/flowchart_editor/static/css/2.7572b43f.chunk.css",
-    "static/js/2.753fa54d.chunk.js": "/flowchart_editor/static/js/2.753fa54d.chunk.js",
-    "static/js/2.753fa54d.chunk.js.map": "/flowchart_editor/static/js/2.753fa54d.chunk.js.map",
+    "static/js/2.ac2dbd28.chunk.js": "/flowchart_editor/static/js/2.ac2dbd28.chunk.js",
+    "static/js/2.ac2dbd28.chunk.js.map": "/flowchart_editor/static/js/2.ac2dbd28.chunk.js.map",
     "index.html": "/flowchart_editor/index.html",
     "static/css/2.7572b43f.chunk.css.map": "/flowchart_editor/static/css/2.7572b43f.chunk.css.map",
-    "static/js/2.753fa54d.chunk.js.LICENSE.txt": "/flowchart_editor/static/js/2.753fa54d.chunk.js.LICENSE.txt"
+    "static/js/2.ac2dbd28.chunk.js.LICENSE.txt": "/flowchart_editor/static/js/2.ac2dbd28.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c3986a88.js",
     "static/css/2.7572b43f.chunk.css",
-    "static/js/2.753fa54d.chunk.js",
-    "static/js/main.dd682431.chunk.js"
+    "static/js/2.ac2dbd28.chunk.js",
+    "static/js/main.7983b33d.chunk.js"
   ]
 }
